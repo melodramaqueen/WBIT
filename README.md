@@ -14,6 +14,7 @@ You can download your own Google Trends Data by following these steps:
 And lo and behold! You have your trends data! 
 
 This is what my Google Incognito Search results in:
+
 https://user-images.githubusercontent.com/21278044/143578261-6937c269-2c11-41dc-acb3-57d6eba1010e.mov
 
 What happens with yours?
